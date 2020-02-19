@@ -1,3 +1,4 @@
+' Edit email and password
 ' Modify timings as necessary
 Set shell = CreateObject("WScript.Shell")
 shell.Run("""C:\Program Files (x86)\World of Warcraft\_retail_\Wow.exe""")
